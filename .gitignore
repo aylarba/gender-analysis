@@ -1,0 +1,5 @@
+.Rhistory
+.RData
+*.pdf
+results/
+plots/
